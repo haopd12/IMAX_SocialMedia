@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\bin\Debug\net6.0\UserLog.Domain.deps.json
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\bin\Debug\net6.0\UserLog.Domain.runtimeconfig.json
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\bin\Debug\net6.0\UserLog.Domain.dll
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\bin\Debug\net6.0\UserLog.Domain.pdb
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.dll
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\refint\UserLog.Domain.dll
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.pdb
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\UserLog.Domain.genruntimeconfig.cache
+C:\Users\PC\source\repos\IMAX.UserLog\src\UserLog.Domain\obj\Debug\net6.0\ref\UserLog.Domain.dll

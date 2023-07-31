@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2SJNpRhZFNlw2e8GIinHnsq2XofWwTnvV2vHDy8PvB4=",
+  "Source": "UserLog.WebAPI",
+  "BasePath": "_content/UserLog.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
